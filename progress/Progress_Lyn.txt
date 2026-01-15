@@ -1,0 +1,3 @@
+Membuat UseCase
+Membuat Activity Diagram
+Merapikan Diagram
